@@ -1,3 +1,9 @@
+
+With mini-reddit-proj you can login with your github account and have conversation with other people about various topics!
+
+![Capture3](https://github.com/HoseinFirp/mini-reddit-proj/assets/130319454/e0fa5082-d44c-4956-9484-35073487d3e8)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
